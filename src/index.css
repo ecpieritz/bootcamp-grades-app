@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;900&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #000000;
+  color: #ffffff;
+  
+}
+
+#root{
+  width: 85%;
+  margin: auto;
+}
+
+code {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.default-flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.padding {
+  padding: 10px;
+}
+
+.border {
+  border: none;
+  border-radius: 20px 0px;
+  margin-top: 5px;
+  padding: 15px;
+  background: #ffffff;
+  color: #000000;
+}
+
+h3,h4{
+  font-weight: 700;
+}
+
+header, footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #00415f;
+}
+
+#profilePhoto{
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  margin-right: 25px;
+}
+
+footer{
+  margin: 0;
+  padding: 0;
+  height: 60px;
+}
+
+#madeWith{
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  margin-right: 25px;
+}
+
+#madeWith img{
+  width: 15px;
+  margin-left: 5px;
+  margin-top: 3px;
+}
+
+#socials{
+  display: flex;
+  flex-direction: row;
+  margin-left: 25px;
+}
+
+#socials img{
+  width: 40px;
+  margin-left: 20px;
+  padding-top: 10px;
+}

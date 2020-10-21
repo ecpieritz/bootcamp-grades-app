@@ -1,0 +1,21 @@
+.resultLabel {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.valueLabel {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.approved {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: green;
+}
+
+.disapproved {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: red;
+}
