@@ -3,7 +3,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://scontent.fbnu2-1.fna.fbcdn.net/v/t1.0-9/122224999_1764854490335561_1134692462476190792_n.jpg?_nc_cat=101&_nc_sid=0debeb&_nc_ohc=TvTYNk_3dG8AX8QVsyU&_nc_oc=AQmJYS3HGgF5YoGJsoIsxnPZXqle0VoRRlPB8MY0LjaHeoaf_F-2AGqPQyTVgySEYtw&_nc_ht=scontent.fbnu2-1.fna&oh=36dcb955fdfdb14db3ef7f118d9d82e2&oe=5FB7591E" width = "700">
+  <img src = "https://github.com/ecpieritz/bootcamp-grades-app/blob/main/public/img/grades-print.jpg?raw=true" width = "800">
 </p>
 
 ---
