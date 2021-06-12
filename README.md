@@ -27,7 +27,7 @@ Build, using React, an application to control the grades of the IGTI Bootcamps m
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/bootcamp-grades-app.git
+git clone https://github.com/ecpieritz/bootcamp-grades-app.git
 
 #### Enter directory
 `cd bootcamp-grades-app`
